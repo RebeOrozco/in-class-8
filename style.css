@@ -6,22 +6,16 @@
   padding: 10px;
 } 
 
-* {
-  padding: 0;
-  margin: 0;
-}
-
 ul, ol {
   margin-left: 25px;
 }
 
 body {
-    background-color: rgb(30, 94, 36);
+    background-color: rgb(30, 106, 38);
     color: rgb(255, 46, 46);
     font: 16px, Arial, sans-serif;
     font-size: 16px;
 }
-</body>
 
 img {
     height: 300px;
@@ -31,9 +25,10 @@ img {
 .subtitle {
     font-size: 20px;
 } 
+
 .time {
     font-weight: bold;
-    color: rgb(255, 44, 37);
+    color: rgb(255, 255, 255);
 }
 
 .ingredients li {
@@ -45,7 +40,7 @@ img {
 }
 
 a {
-    color: rgb(0, 123, 255);
+    color: rgb(237, 237, 237);
 }
 
 h1, h2 {
