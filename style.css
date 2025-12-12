@@ -36,9 +36,11 @@ img {
 <span class="time"> {
     color: rgb(255, 200, 0);
 }
+
 a {
     color: rgb(0, 123, 255);
 }
+
 h1, h2 {
     text-transform: uppercase;
 }  
