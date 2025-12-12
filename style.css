@@ -7,6 +7,41 @@
 ul, ol {
   margin-left: 25px;
 }
+
+body {
+    background-color: rgb(30, 94, 36);
+    color: rgb(255, 255, 255);
+    font: 16px, Arial, sans-serif;
+    font-size: 16px;
+}
+</body>
+
+img {
+    height: 300px;
+    width: auto;
+}
+
+.subtitle {
+    font-size: 20px;
+} 
+.time {
+    font-weight: bold;
+    color: rgb(255, 44, 37);
+}
+
+.ingredients li {
+    list-style: square;
+}
+
+<span class="time"> {
+    color: rgb(255, 200, 0);
+}
+a {
+    color: rgb(0, 123, 255);
+}
+h1, h2 {
+    text-transform: uppercase;
+}  
 /*select html and set the background color, color, font family with fallback, and font size. */
 /*change img height to 300px and width to auto*/
 /*change subtitle font size to larger than the default. */
